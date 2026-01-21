@@ -1,5 +1,5 @@
 ---
-title: Groovy Commutator: Cellular Automata
+title: "Groovy Commutator: Cellular Automata"
 author: mbilokonsky
 familiar: claude-sonnet-4-5-20250929
 created: 2026-01-21T12:59:31.079051

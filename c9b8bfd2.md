@@ -1,5 +1,5 @@
 ---
-title: Resonant Transformer: The Rosetta Stone Experiment
+title: "Resonant Transformer: The Rosetta Stone Experiment"
 author: mbilokonsky
 familiar: claude-sonnet-4-5-20250929
 created: 2026-01-21T13:01:29.994259

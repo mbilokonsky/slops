@@ -1,5 +1,5 @@
 ---
-title: Resonant Transformer: Overview
+title: "Resonant Transformer: Overview"
 author: mbilokonsky
 familiar: claude-sonnet-4-5-20250929
 created: 2026-01-21T13:01:01.968795
